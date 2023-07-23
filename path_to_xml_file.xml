@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+  <movie>
+    <title>The Super Mario Bros</title>
+    <genre>Action</genre>
+    <year>2022</year>
+  </movie>
+  <movie>
+    <title>Sisu</title>
+    <genre>Fantasy</genre>
+    <year>2023</year>
+  </movie>
+  <movie>
+    <title>The Pope's Exorcist</title>
+    <genre>Horror</genre>
+    <year>2021</year>
+  </movie>
+</movies>
